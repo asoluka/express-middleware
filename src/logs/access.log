@@ -1,0 +1,8 @@
+::ffff:127.0.0.1 - - [23/May/2024:11:17:33 +0000] "GET /books HTTP/1.1" 200 33 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [23/May/2024:11:21:14 +0000] "POST /books HTTP/1.1" 201 42 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [23/May/2024:11:24:36 +0000] "POST /books HTTP/1.1" 201 44 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [23/May/2024:11:27:12 +0000] "POST /books HTTP/1.1" 201 44 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [23/May/2024:11:28:04 +0000] "POST /books HTTP/1.1" 201 44 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [23/May/2024:11:28:45 +0000] "POST /books HTTP/1.1" 201 44 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [23/May/2024:11:29:09 +0000] "POST /books HTTP/1.1" 201 44 "-" "Thunder Client (https://www.thunderclient.com)"
+::1 - - [23/May/2024:11:43:04 +0000] "GET /history HTTP/1.1" 404 146 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
